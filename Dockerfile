@@ -1,1 +1,1 @@
-FROM quay.io/coreos/etcd:v2.2.1
+FROM gcr.io/google_containers/etcd:2.0.12
